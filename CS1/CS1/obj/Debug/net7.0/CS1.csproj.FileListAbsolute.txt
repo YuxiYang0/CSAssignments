@@ -1,0 +1,15 @@
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/bin/Debug/net7.0/CS1
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/bin/Debug/net7.0/CS1.deps.json
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/bin/Debug/net7.0/CS1.runtimeconfig.json
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/bin/Debug/net7.0/CS1.dll
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/bin/Debug/net7.0/CS1.pdb
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.csproj.AssemblyReference.cache
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.AssemblyInfoInputs.cache
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.AssemblyInfo.cs
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.csproj.CoreCompileInputs.cache
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.dll
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/refint/CS1.dll
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.pdb
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/CS1.genruntimeconfig.cache
+/Users/yuxismac/Desktop/Antra lectures/CS1/CS1/obj/Debug/net7.0/ref/CS1.dll
